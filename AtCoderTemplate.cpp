@@ -3,6 +3,7 @@
 #include <string>
 #include <map>
 #include <unordered_map>
+#include <vector>
 #include <cmath>
 #include <algorithm>
 
